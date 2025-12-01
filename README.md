@@ -51,7 +51,7 @@ All models are loaded locally and run on your machine.
 git clone https://github.com/Akshay-rs22/Gen-AI_Project---Your-Personal-GEN-AI-for-YouTube-Summaries-Q-A.git
 cd youtube-ai-rag
 
-User runs a script to auto-install dependencies
+2. User runs a script to auto-install dependencies
 python model_and_package_download.ipynb
 
 
